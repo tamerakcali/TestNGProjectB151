@@ -8,5 +8,7 @@ public class TC01_SearchBoxTest {
     public void test01() {
 
         Driver.closeDriver();
+ //navigate to amazon
+
     }
 }
